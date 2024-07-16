@@ -1,0 +1,25 @@
+﻿{
+    "name": "Madrasatus Safwah",
+    "short_name": "Safwah",
+    "categories": ["education"],
+    "description": "Madrasatus Safwah is a unique online educational institution for acquiring Islamic knowledge. Start today & Stay on the journey.",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVwI2NgNnTmeo3Xtjvw0BJYTO6FnZ7T1pB6dX4B9nvpWb8gvA2zJ-pRXMv71MuGeYel5InFf02clOmjJKX8bLyzgQwvPapidd8ANeyVT9lyA53V-3IlTUDbF3UWJh7H_9cze4rUJZsrwe-_c8C0INijUxRiuswjeWTA7gHuGUkFmkhKx-x3FgORTWEY_4/s1600/Madrasatus%20Safwah%20Web%20Logo.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVwI2NgNnTmeo3Xtjvw0BJYTO6FnZ7T1pB6dX4B9nvpWb8gvA2zJ-pRXMv71MuGeYel5InFf02clOmjJKX8bLyzgQwvPapidd8ANeyVT9lyA53V-3IlTUDbF3UWJh7H_9cze4rUJZsrwe-_c8C0INijUxRiuswjeWTA7gHuGUkFmkhKx-x3FgORTWEY_4/s1600/Madrasatus%20Safwah%20Web%20Logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.madrasatussafwah.com/search/label/feeds"
+}
